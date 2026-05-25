@@ -1,3 +1,4 @@
+#Encontrar o maior numero impar amazenado na lista 
 v=[ 9, 42, 21, 14, 28, 3, 19, 32 ,46, 6]
 i=0
 while i<10:

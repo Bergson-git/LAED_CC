@@ -1,3 +1,4 @@
+#Imprimir todos os numeros que aparecem nas duas listas
 u=[9,2,7,7,2,2,1,7,7,9]
 v=[2,15,19,12,33,9,17,41,54,8]
 

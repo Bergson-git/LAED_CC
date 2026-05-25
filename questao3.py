@@ -1,4 +1,5 @@
-
+#Procurar o numero k na lista L, e se ele nao estiver la
+#retornar o elemento da lista com o valor mais proximo de k
 def func(v,numero): 
     i=0
     aux=0

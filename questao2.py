@@ -1,6 +1,6 @@
+#Encontrar o segundo maior impar
 v=[19,42,21,14,28,3,9,32,46,6]
 i=0
-
 while i<10:
     if v[i]%2!=0:
         m=v[i]

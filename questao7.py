@@ -1,3 +1,4 @@
+#Contar o numero de inversoes na lista V
 v=[9,2,7,7,2,2,1,7,7,9]
 cont=0
 i=0

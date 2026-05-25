@@ -1,3 +1,5 @@
+#Encontrar os dois elementos da lista L que possuem a menor diferenca entre si
+#(em valor absoluto)
 v=[9,42,21,14,25,3,19,33,45,6]
 dif=abs(v[0]-v[1])
 for i in range(0,10):
