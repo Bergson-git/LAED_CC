@@ -43,6 +43,6 @@ for exp in cadeias:
 # a pilha encadeada armazenará até n nós na memória.
 
 #c)
-# 1) ({[]}): VÁLIDA. Todos os delimitadores foram empilhados e desempilhados na ordem correta.
-# 2) ({[]}]: INVÁLIDA. Erro na posição 5: o fechador ']' tenta fechar o abridor '('
-# 3) ({[]}[()]{}):  VÁLIDA. Todos os blocos foram fechados corretamente.
+# 1) ({[]}): Válida pois todos os delimitadores foram empilhados e desempilhados na ordem correta.
+# 2) ({[]}]: Inválida devido ao erro na posição 5: o fechador ']' tenta fechar o abridor '('
+# 3) ({[]}[()]{}):  Válida pois todos os blocos foram fechados corretamente.
